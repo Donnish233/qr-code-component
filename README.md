@@ -11,11 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -25,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Donnish233/qr-code-component.git)
-- Live Site URL: [Add live site URL here](https://donnish233.github.io/qr-code-component/)
+- Solution URL: [Solution's URL](https://github.com/Donnish233/qr-code-component.git)
+- Live Site URL: [Live site URL](https://donnish233.github.io/qr-code-component/)
 
 ## My process
 
