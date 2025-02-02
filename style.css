@@ -27,7 +27,7 @@ img{
 }
 h1{
     font-weight: 700;
-    font-size: 18px;
+    font-size: 0.75em;
     justify-content: center;
     text-align: center;
     color: hsl(218, 44%, 22%);
