@@ -19,16 +19,16 @@ a{
 div{
     background-color: white;
     padding: 20px;
-    width: 30vh;
+    width: 35vh;
     height: fit-content;
 }
 img{
     width: inherit;
-    height: 30vh;
+    height: 35vh;
 }
 h1{
     font-weight: 700;
-    font-size: 150%;
+    font-size: 2em;
     justify-content: center;
     text-align: center;
     color: hsl(218, 44%, 22%);
