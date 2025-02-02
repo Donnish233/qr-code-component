@@ -1,0 +1,44 @@
+*{
+    border-radius: 10px;
+}
+@font-face {
+    font-family: 'Outfit';
+    src: url(https://fonts.google.com/specimen/Outfit);
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #D5E1EF;
+    font-family: 'Outfit', 'Roboto', sans-serif;
+}
+a{
+    color: hsl(228, 45%, 44%);
+}
+div{
+    background-color: white;
+    padding: 20px;
+    width: 45vh;
+}
+img{
+    width: inherit;
+    height: 45vh;
+}
+#one{
+    font-weight: 700;
+    justify-content: center;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+}
+#two{
+    text-align: center;
+    color: hsl(216, 15%, 48%);
+}
+footer{
+    position: fixed;
+    bottom: 10px;
+    font-size: 11px;
+    text-align: center;
+    clear: both;
+}
