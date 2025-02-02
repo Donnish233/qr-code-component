@@ -19,14 +19,15 @@ a{
 div{
     background-color: white;
     padding: 20px;
-    width: 45vh;
+    width: 35vh;
 }
 img{
     width: inherit;
-    height: 45vh;
+    height: 35vh;
 }
-#one{
+h1{
     font-weight: 700;
+    font-size: 18px;
     justify-content: center;
     text-align: center;
     color: hsl(218, 44%, 22%);
