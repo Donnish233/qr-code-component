@@ -16,22 +16,25 @@ body{
 a{
     color: hsl(228, 45%, 44%);
 }
-div{
+main{
     background-color: white;
-    padding: 20px;
-    width: 35vh;
+    padding: 10px 20px 20px;
+    width: 290px;
     height: fit-content;
+    justify-content: center;
+    align-items: center;
 }
 img{
-    width: inherit;
-    height: 35vh;
+    width: 290px;
+    height: 280px;
 }
 h1{
     font-weight: 700;
-    font-size: 2em;
+    font-size: 1.3em;
     justify-content: center;
     text-align: center;
     color: hsl(218, 44%, 22%);
+    padding: 0;
 }
 #two{
     text-align: center;
